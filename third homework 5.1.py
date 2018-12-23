@@ -366,4 +366,3 @@ if __name__ == '__main__' :
     plt.title("Performance of the Binary Tree, QuickSort, Heap solutions")
     plt.show()
 
-print values_heap_add
